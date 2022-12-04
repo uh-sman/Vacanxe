@@ -1,0 +1,119 @@
+.version-link {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  color: #4196b8;
+  text-align: center;
+}
+.versions-container {
+  margin-top: 80px;
+}
+.versions-section1 {
+  /* display: grid; */
+  /* place-items: center; */
+  display: flex;
+  gap: 162.58px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+  /* padding: 86px 50px; */
+
+  /* grid-template-columns: 1fr 1fr; */
+}
+.versions-section2 {
+  /* display: grid; */
+  /* place-items: center; */
+  display: flex;
+  gap: 162.58px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  /* padding: 86px 50px; */
+
+  /* grid-template-columns: 1fr 1fr; */
+}
+.versions-section1 {
+  /* display: grid; */
+  /* place-items: center; */
+  display: flex;
+  gap: 162.58px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 86px;
+  padding-left: 110px;
+
+  /* grid-template-columns: 1fr 1fr; */
+}
+.text-section {
+  width: 20%;
+}
+.h2 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  /* text-align: left; */
+  /* width: 379px;
+  height: 74px; */
+
+  /* font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 37px; */
+}
+.man {
+  height: 313.4984436035156px;
+  width: 251.41943359375px;
+  /* left: 872.580078125px;
+top: 830.1708984375px;
+border-radius: [object Object]px; */
+}
+.flex {
+  display: flex;
+  gap: 36px;
+}
+/* .versions-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+} */
+.dotted {
+  position: absolute;
+  margin-top: -20px;
+  margin-left: -40px;
+}
+.dotted-2 {
+  position: absolute;
+  margin-top: 235px;
+  margin-left: -24px;
+}
+.arrow {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.arrow1 {
+  margin-top: 24px;
+  display: flex;
+
+  align-items: flex-end;
+  justify-content: flex-end;
+  gap: 10px;
+}
+@media only screen and (max-width: 950px) {
+  .versions-section1 {
+    flex-direction: column;
+    padding-left: 0px;
+  }
+  .text-section {
+    width: 60%;
+  }
+}

@@ -1,0 +1,39 @@
+.services-button-section {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.btn-core {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.015em;
+  text-align: center;
+  border: 2px solid #4196b8;
+  height: 47px;
+  width: 149px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  background-color: #e9fbff;
+  color: #4196b8;
+}
+.btn-better {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.015em;
+  text-align: center;
+  border: 2px solid #afafaf;
+  height: 47px;
+  width: 149px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  background-color: #ededed 10%;
+  color: #afafaf;
+}

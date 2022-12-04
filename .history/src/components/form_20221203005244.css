@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.form label {
+  height: 22px;
+  width: 78px;
+  left: 263px;
+  top: 2409px;
+  border-radius: nullpx;
+}
+.input-field {
+  height: 55px;
+  width: 574px;
+  left: 259px;
+  top: 2536px;
+  border-radius: 10px;
+  border: none;
+}
+.message {
+  height: 203px;
+  width: 574px;
+  left: 259px;
+  top: 2839px;
+  border: none;
+  border-radius: 10px;
+}

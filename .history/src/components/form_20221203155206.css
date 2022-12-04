@@ -1,0 +1,61 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.form label {
+  height: 22px;
+  width: 78px;
+  left: 263px;
+  top: 2409px;
+  border-radius: nullpx;
+}
+.input-field {
+  padding: 0px 24px;
+  height: 55px;
+  width: 574px;
+  left: 259px;
+  top: 2536px;
+  border-radius: 10px;
+  border: 1px solid #c8d0da;
+  outline: transparent;
+}
+.message {
+  padding: 0px 24px;
+  height: 203px;
+  width: 574px;
+  left: 259px;
+  /* top: 2839px; */
+  border: 1px solid #c8d0da;
+  border-radius: 10px;
+  outline: transparent;
+}
+.form-button {
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  /* letter-spacing: 0em; */
+  /* text-align: left; */
+
+  margin-top: 19px;
+  border: none;
+  color: white;
+  background-color: #4eb9e3;
+  height: 40px;
+  width: 215px;
+  left: 257px;
+  top: 3061px;
+  border-radius: 8px;
+  padding: 12px 24px 12px 24px;
+}
+/* .team-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+@media only screen and (min-width: 350px) and (max-width: 600px) {
+  .input-field {
+    width: 350px;
+  }
+}

@@ -1,0 +1,39 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.form label {
+  height: 22px;
+  width: 78px;
+  left: 263px;
+  top: 2409px;
+  border-radius: nullpx;
+}
+.input-field {
+  height: 55px;
+  width: 574px;
+  left: 259px;
+  top: 2536px;
+  border-radius: 10px;
+  border: 1px solid #c8d0da;
+  outline: transparent;
+}
+.message {
+  height: 203px;
+  width: 574px;
+  left: 259px;
+  top: 2839px;
+  border: 1px solid #c8d0da;
+  border-radius: 10px;
+  outline: transparent;
+}
+.form-button {
+  color: white;
+  background-color: #4eb9e3;
+  height: 40px;
+  width: 215px;
+  left: 257px;
+  top: 3061px;
+  border-radius: 8px;
+  padding: 12px 24px 12px 24px;
+}

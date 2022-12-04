@@ -1,0 +1,19 @@
+.footer-section {
+  background: #1d293f;
+  height: 533px;
+  /* width: 1600px; */
+  /* left: 127px; */
+  /* top: 0px;
+  border-radius: 0px; */
+}
+
+.image-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  width: 10%;
+  height: 30%;
+  /* padding: 10px; */
+  border-radius: 50%;
+}

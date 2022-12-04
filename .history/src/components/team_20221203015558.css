@@ -1,0 +1,26 @@
+.team-container {
+  background: #f4fbff;
+  height: 1101px;
+  /* width: 1539px; */
+  /* left: -14px;
+top: 2142px; */
+  border-radius: 0px;
+}
+.custom {
+  border-bottom: 4px solid #4eb9e3;
+}
+.build {
+  color: #4b4c4e;
+}
+.flexed {
+  display: flex;
+  gap: 98px;
+}
+.team {
+  display: flex;
+  justify-content: center;
+  padding: 64px 0px;
+}
+.build small {
+  margin-bottom: 73px;
+}

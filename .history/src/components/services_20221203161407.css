@@ -1,0 +1,13 @@
+.services-button-section {
+  display: flex;
+  gap: 20px;
+}
+.btn-core {
+  height: 47px;
+  width: 149px;
+  display: flex;
+  align-items: center;
+  border-radius: 18px;
+  background-color: #e9fbff;
+  color: #4196b8;
+}

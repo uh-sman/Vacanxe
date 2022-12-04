@@ -1,0 +1,51 @@
+.version-link {
+}
+.versions-container {
+  margin-top: 80px;
+}
+.versions-section {
+  display: grid;
+  place-items: center;
+
+  padding: 86px 50px;
+
+  grid-template-columns: 1fr 1fr;
+}
+.h2 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  /* text-align: left; */
+  /* width: 379px;
+  height: 74px; */
+
+  /* font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 37px; */
+}
+.man {
+  height: 313.4984436035156px;
+  width: 251.41943359375px;
+  /* left: 872.580078125px;
+top: 830.1708984375px;
+border-radius: [object Object]px; */
+}
+.flex {
+  display: flex;
+}
+/* .versions-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+} */
+.dotted {
+  position: absolute;
+  margin-top: -20px;
+  margin-left: -40px;
+}

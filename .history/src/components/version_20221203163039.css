@@ -1,0 +1,23 @@
+.version-link {
+}
+.versions-section {
+  display: grid;
+  place-items: center;
+  grid-template-columns: 1fr 1fr;
+}
+.h2 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 37px;
+  letter-spacing: 0em;
+  text-align: left;
+  /* width: 379px;
+  height: 74px; */
+
+  /* font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 37px; */
+}

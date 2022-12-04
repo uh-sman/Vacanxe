@@ -1,0 +1,14 @@
+.header-text {
+  height: 28px;
+  width: 132px;
+  left: 931px;
+  top: 2435px;
+  border-radius: nullpx;
+}
+.contact {
+  display: flex;
+  align-items: center;
+}
+.contact-section {
+  padding: 30px 0px;
+}
